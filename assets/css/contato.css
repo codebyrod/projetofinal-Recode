@@ -1,0 +1,37 @@
+/* ms = main section */
+
+.m-box{
+    padding-top: 12rem;
+    height: 120vh;
+}
+
+.ipt-title, .ipt-label{
+    font-size: 3vw;
+    color: #683266;
+}
+
+.ipt-label{
+    font-size: 2vw;
+}
+
+.ipt-box, .ipt-area{
+    width: 35vw;
+    height: 6vh;
+}
+
+.ipt-area{
+    height: 40vh;
+}
+
+.ipt-btn{
+    background-color: #683266;
+    color: #ffe6ff;
+    width: 11vw;
+    height: 3vw;
+    font-size: 1.3rem;
+    margin-top: 1rem;
+    outline: none;
+    border: none;
+    border-radius: 0.4rem;
+    cursor: pointer;
+}

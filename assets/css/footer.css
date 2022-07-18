@@ -1,0 +1,32 @@
+
+.footer{
+    width: 100vw;
+    background-color: #683266;
+    color: #ffe6ff;
+}
+
+.f-box-links, .f-box-projetos {
+    width: 15vw;
+    padding: 2rem;
+    
+}
+
+.footer h4{
+    font-size: 2rem;
+}
+
+.footer p{
+    font-size: 1.4rem;
+}
+
+.f-box-social{
+    width: 30vw;
+    padding: 2rem;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.f-social-logo {
+    width: 3vw;
+    margin: 0.5rem;
+}

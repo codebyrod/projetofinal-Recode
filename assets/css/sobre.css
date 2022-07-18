@@ -1,0 +1,28 @@
+/* ms = main section */
+
+.m-box{
+    padding-top: 8rem;
+    height: 140vh;
+}
+
+.ms-somos{
+    height: 50vh;
+    padding: 2rem;
+    color: #32092d;
+}
+
+.somos-title{
+    font-size: 4vw;
+}
+
+.somos-txt{
+    font-size: 2.2vw;
+}
+
+.box-card-perfil{
+    background-color: red;
+}
+
+.img-card-perfil{
+    width: 12vw;
+}
